@@ -1,6 +1,6 @@
 public class Main {
 
 }
-class Sample{
+class Sample {
 
 }
