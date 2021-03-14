@@ -4,3 +4,6 @@ public class Main {
 class class1{
 
 }
+class prem{
+
+}
